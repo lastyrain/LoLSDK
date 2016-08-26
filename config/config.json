@@ -1,6 +1,10 @@
 {
-  "default_region" : "na",
+  "default_region" : "jp",
   "summoner_version" : "v1.4",
   "champion_version" : "v1.2",
-  "static_data_version" : "v1.2"
+  "static_data_version" : "v1.2",
+  "stats_version": "v1.3",
+  "game_version": "v1.3",
+  "match_version": "v2.2",
+  "match_list_version": "v2.2"
 }
